@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Bob Biswas",
+      "email": "bob@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Lilly Hope",
+      "email": "lilly@gmail.com"
+    },
+    {
+      "id": "868b",
+      "name": "Rahul",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "89dc",
+      "name": "Roshan",
+      "email": "roshan@gmail.com"
+    },
+    {
+      "id": "b6cf",
+      "name": "Akash Singh",
+      "email": "akash28@gmail.com"
+    }
+  ]
+}
